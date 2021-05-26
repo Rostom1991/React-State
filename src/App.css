@@ -1,0 +1,39 @@
+div img{
+  width: 300px;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+}
+
+
+div div{
+  background-color: rgb(176, 176, 233);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin: auto;
+  border-radius: 20px;
+}
+
+div h1{
+  text-align: center;
+  color: blueviolet;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:xx-large;
+}
+
+h3{
+  color: yellow;
+  font-weight: bolder;
+  border: solid 2px;
+}
+
+button{
+  width:100px;
+  color: white;
+  background-color: rgb(68, 68, 4);
+  border-radius: 5px;
+}
